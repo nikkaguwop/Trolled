@@ -1,7 +1,7 @@
 # Trolled
 A client with 5b5t stuff added on which is just trollhack
 # How to use
-First, place the loader, "TrollHackForge," into your Minecraft mods download folder. Next, create a new folder inside your main Minecraft directory and name it "fastmc-loader." Finally, drag the "TrollHackForge" file into the "fastmc-loader" folder. and ur gold
+First, place the loader in ur mods, then download "TrollHackForge," Next, create a new folder inside your main Minecraft directory and name it "fastmc-loader." Finally, drag the "TrollHackForge" file into the "fastmc-loader" folder. and ur gold
 # what works
   Loader 🟢
   Client 🟢
