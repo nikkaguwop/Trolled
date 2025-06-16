@@ -1,0 +1,13 @@
+# how to crack
+- open recaf
+- download the uncracked loader
+- drag it in recaf
+- find trollhack class
+- look for postinit
+- click on the search and write "wizard"
+- right click on the bottom one and click assembly
+- look for anything that matches with exit
+- once found delete it and write POP
+- now press ctrl + s
+- click on file and export
+- boom u cracked the trolled loader
